@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-snapbuy-dev-64409-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934015357022:role/amplify-snapbuy-dev-64409-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934015357022:role/amplify-snapbuy-dev-64409-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-snapbuy-dev-64409-deployment",
+      "UnauthRoleName": "amplify-snapbuy-dev-64409-unauthRole",
+      "StackName": "amplify-snapbuy-dev-64409",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:934015357022:stack/amplify-snapbuy-dev-64409/74b9ac90-edbd-11ec-a35a-0e041c456f93",
+      "AmplifyAppId": "d1nd6qfq5ecqst"
+    }
+  }
+}
